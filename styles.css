@@ -1,0 +1,50 @@
+head{
+  color: white;
+
+}
+body {
+  color: white;
+  padding-top: 5rem;
+  font-family: 'Poppins', sans-serif;
+  background-color: #008891;
+}
+
+#nav1 {
+  background-color: #00587a;
+  padding-left: 47%;
+}
+
+#nav2 {
+  background-color: #00587a;
+  padding-left: 47%;
+}
+
+main {
+  padding: 3rem 1.5rem;
+  background-position: center;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+ }
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
